@@ -3,8 +3,8 @@ public class Main {
     public static void main(String[] args){
 
         count22NoOverlapResults();
-        count22OverlapResults();
-        factorsOf10Results();
+        count22OverlapResults();   //askdalsklhglwjhfljehfljwehljewhflkjweowefie0fjewqofjo[iejfoijefo]
+        factorsOf10Results();      //hfoueqhfouwehfiuwhfoqhfuqehfpdoufeofuehfoiuwhiofuhweifh
         balancedParensResults();
         //reverseArrayResults();
     }
